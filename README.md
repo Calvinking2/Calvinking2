@@ -2,7 +2,7 @@
 
 Welcome to My Profile!, I'm a Game Developer student from BINUS University.<br>
 I mainly use Unity but i'm going to learn Unreal Engine or Godot in the future.<br>
-Before coming to BINUS i study at SMK Telkom and i study as software engineer mainly FrontEnd and UI/UX Design
+Before coming to BINUS i study at SMK Telkom as software engineer mainly FrontEnd and UI/UX Design
 <!--
 **Calvinking2/Calvinking2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
