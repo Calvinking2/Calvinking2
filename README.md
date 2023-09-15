@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there my name is Calvin.👋
+I'm a Game Developer student from BINUS University. I mainly use Unity but i'm going to learn Unreal Engine or Godot in the future
 <!--
 **Calvinking2/Calvinking2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
