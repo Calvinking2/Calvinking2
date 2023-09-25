@@ -13,7 +13,7 @@ Before coming to BINUS i study at SMK Telkom as software engineer mainly FrontEn
 
 ## Get in touch :rocket:
 
-- Instagram  [Twitter](https://www.instagram.com/calvinking2/).
+- Instagram  [Instagram](https://www.instagram.com/calvinking2/).
 - Linkedin [Linkedin](https://www.linkedin.com/in/calvin-198806291/).
 - Facebook [Facebook](https://www.facebook.com/calvin.joe.3363/)
 <!--
